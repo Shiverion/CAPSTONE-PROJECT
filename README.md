@@ -74,7 +74,7 @@ Sistem ini adalah aplikasi berbasis Python untuk membantu pengelolaan pemesanan 
 
 ## Kontributor
 
-- **Nama**: [Nama Anda]
+- **Nama**: Muhammad Iqbal Hilmy Izzulhaq
 - **Peran**: Developer
 
 ## Lisensi
